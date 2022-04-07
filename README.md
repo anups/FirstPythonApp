@@ -14,3 +14,13 @@ it will expplain the flow or steps of app
 
 5.
 
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
